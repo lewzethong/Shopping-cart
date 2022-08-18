@@ -1,0 +1,15 @@
+input {
+  width: 40px
+}
+
+#item {
+  max-width: 200px;
+}
+
+#price {
+  width: 100px;
+}
+
+#add {
+  width: 62px;
+}
