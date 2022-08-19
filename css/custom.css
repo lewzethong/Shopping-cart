@@ -13,3 +13,9 @@ input {
 #add {
   width: 62px;
 }
+
+.price::before,
+.cost::before,
+#grandTotal::before {
+  content: "$";
+}
